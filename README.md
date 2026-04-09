@@ -42,7 +42,8 @@ pytest -m ui
 - Mobile emulation is enforced from the driver factory (`iPhone X` profile).
 
 ## GIF
-Add your run recording GIF here (example: `docs/ui-run.gif`).
+Added run recording GIF here ("https://github.com/Kapil-creator/SportyGroupTask-UI-Automation/Animation_UI.gif")
+
 ## Evaluation Mapping
 - **Attention to detail**: Mobile emulation enabled, Twitch flow matches the assignment steps, and popups are handled.
 - **Problem-solving**: Resilient XPaths and JS click/scroll handle layout changes and intercepted clicks.
